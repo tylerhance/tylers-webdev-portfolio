@@ -12,7 +12,7 @@ const Hero = () => (
         Full-Stack Web Developer
       </SectionTitle>
       <SectionText>
-        I am a full-stack web developer with a passion for problem solving and design. I specialize in the MERN stack (MongoDB, Express, React, Node), but I am always open to learning new technologies. 
+        I am a full-stack web developer with a passion for problem solving and design. I specialize in the MERN stack (Mongo, Express, React, Node), but I am always open to learning new technologies. 
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/tylerhance' }>Learn More</Button>
     </LeftSection>
