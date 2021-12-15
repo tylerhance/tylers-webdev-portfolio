@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Eventine',
+    description: "Eventine is an event organizing app where you can create and update events around your area. The motivation for development for this project is to be able to help communities create human connection, by giving them the tools to share and promote for group events and gatherings.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Mongo', 'Express', 'React', 'Node', 'GraphQL', 'Heroku'],
+    source: 'https://github.com/tylerhance/Eventine',
+    visit: 'https://https://floating-brook-52751.herokuapp.com/.com',
     id: 0,
   },
   {
