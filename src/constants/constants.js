@@ -31,8 +31,8 @@ export const projects = [
     description: "I built a weather dashboard app which uses vanilla JavaScript and the OpenWeatherMap API to display the current weather conditions for a user-specified city. The user can view the 5-day forecast based on the user's input for a specific city.",
     image: '/images/WeatherDashboard.png',
     tags: ['JavaScript', 'HTML', 'CSS', 'OpenWeatherMapAPI'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/tylerhance/weather-dashboard',
+    visit: 'https://tylerhance.github.io/weather-dashboard/',
     id: 3,
   },
 ];
