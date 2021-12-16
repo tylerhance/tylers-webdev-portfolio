@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: '', },
-  { year: 2018, text: '', },
-  { year: 2019, text: '', },
-  { year: 2020, text: 'Started with freeCodeCamp and CS50', },
-  { year: 2021, text: 'Certified Full-Stack Web Dev from UW', },
+  { year: 'Aug 2020', text: 'Started learning with freeCodeCamp and YouTube', },
+  { year: 'Sept 2020', text: 'Realized I wanted to learn more about programming', },
+  { year: 'Nov 2021', text: 'Enrolled in Harvard CS50 and began research coding bootcamps', },
+  { year: 'March 2021', text: 'Enrolled and began courses for the UW coding bootcamp', },
+  { year: 'Sept 2021', text: 'Certified as Full-Stack Web Developer from University of Washington', },
 ];
