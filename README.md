@@ -1,6 +1,7 @@
 ## My Personal Portfolio
 
-![Portfolio Website]<img src="/public/images/my_portfolio.png">
+<img src="/public/images/my_portfolio.png">
+
 ## Description
 
 * Greetings and welcome to the repo for my personal web dev portfolio.  
