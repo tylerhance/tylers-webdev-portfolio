@@ -1,6 +1,6 @@
 ## My Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](my_portfolio.png)
 ## Description
 
 * Greetings and welcome to the repo for my personal web dev portfolio.  
