@@ -1,6 +1,6 @@
 ## My Personal Portfolio
 
-![Portfolio Website](my_portfolio.png)
+![Portfolio Website]<img src="/public/images/my_portfolio.png">
 ## Description
 
 * Greetings and welcome to the repo for my personal web dev portfolio.  
@@ -21,7 +21,7 @@
 <h2>Usage</h2>
 
 * Check out the deployed version of the app on GH-Pages [Here](https://tylerhance.github.io/react-portfolio/)<br>
-<img src="/public/images/my_portfolio.png">
+
 
 <h2>Questions</h2>
 
