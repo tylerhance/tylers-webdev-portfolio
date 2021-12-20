@@ -1,11 +1,13 @@
 {
-  "name": "portfolio_nextjs",
+  "name": "tylers-webdev-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tylerhance.github.io/tylers-webdev-portfolio/",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start"
+    
   },
   "dependencies": {
     "next": "10.2.3",
