@@ -21,7 +21,7 @@
 
 <h2>Usage</h2>
 
-* Check out the deployed version of the app on GH-Pages [Here](https://tylerhance.github.io/react-portfolio/)<br>
+* Check out the deployed version of the app on GH-Pages [Here](https://tylerhance.github.io/tylers-webdev-portfolio/)<br>
 
 
 <h2>Questions</h2>
