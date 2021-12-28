@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Eventine',
     description: "Eventine is an event organizing app where you can create and update events around your area. The motivation for development for this project is to be able to help communities create human connection, by giving them the tools to share and promote for group events and gatherings.",
-      image: '/images/eventine.png',
+      image: '/images/eventine-demo.gif',
       tags: ['Mongo', 'Express', 'React', 'Node', 'GraphQL', 'Heroku'],
     source: 'https://github.com/tylerhance/Eventine',
     visit: 'https://https://floating-brook-52751.herokuapp.com/.com',
@@ -38,9 +38,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 'Aug 2020', text: 'Started learning with freeCodeCamp and YouTube', },
-  { year: 'Sept 2020', text: 'Realized I wanted to learn more about programming', },
-  { year: 'Nov 2021', text: 'Enrolled in Harvard CS50 and began research coding bootcamps', },
-  { year: 'March 2021', text: 'Enrolled and began courses for the UW coding bootcamp', },
+  { year: 'Feb 2019', text: 'Started role in IT support and wanted to further expand knowledge of how the web actually worked', },
+  { year: 'Aug 2020', text: 'Started learning programming (HTML,CSS, JS) with freeCodeCamp and YouTube', },
+  { year: 'Sept 2020', text: 'Realized I wanted to learn more about programming and learn as much as possible', },
+  { year: 'Nov 2021', text: 'Enrolled in Harvard CS50 and also began researching coding bootcamps', },
+  { year: 'March 2021', text: 'Enrolled and began courses for the UW (University of Washington) coding bootcamp', },
   { year: 'Sept 2021', text: 'Certified as Full-Stack Web Developer from University of Washington', },
 ];

@@ -4,11 +4,12 @@
 
 ## Description
 
-* Greetings and welcome to the repo for my personal web dev portfolio.  
+* Greetings and welcome to the repo for my personal web dev portfolio. I built out my portfolio using JavaScript and React as well as incorporating a (new to me) React Framework known as [NextJS](https://nextjs.org/). I decided to implement NextJS due to its ability of smart bundling, route pre-fetching, and little to no configuration needed.
 
 ## Table of Contents
 * [Technologies Used](#technologiesused)
 * [Usage](#usage)
+* [Resume](#resume)
 * [Questions](#questions)
 
 <h2>Technologies Used</h2>
@@ -18,10 +19,15 @@
     - NextJS
     - JavaScript
     - HTML/JSX
+    - Deployed/Hosted with Hostinger
 
 <h2>Usage</h2>
 
-* Check out the deployed version of the app on GH-Pages [Here](https://tylerhance.github.io/tylers-webdev-portfolio/)<br>
+* Check out the deployed version of the app on Hostinger [Here](https://tylerhancedev.com/)<br>
+
+<h2>Resume</h2>
+
+* Feel free to view/download my [Resume](https://drive.google.com/file/d/1aw1oc1qItFsh8VOZTdRV8AOMe-1QQgfv/view?usp=sharing)
 
 
 <h2>Questions</h2>
