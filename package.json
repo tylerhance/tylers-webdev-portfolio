@@ -1,8 +1,7 @@
 {
   "name": "tylers-webdev-portfolio",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://tylerhance.github.io/tylers-webdev-portfolio/",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
