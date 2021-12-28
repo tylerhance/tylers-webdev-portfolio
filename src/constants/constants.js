@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Eventine',
     description: "Eventine is an event organizing app where you can create and update events around your area. The motivation for development for this project is to be able to help communities create human connection, by giving them the tools to share and promote for group events and gatherings.",
-      image: '/images/eventine-demo.gif',
+      image: '/images/eventine.png',
       tags: ['Mongo', 'Express', 'React', 'Node', 'GraphQL', 'Heroku'],
     source: 'https://github.com/tylerhance/Eventine',
     visit: 'https://https://floating-brook-52751.herokuapp.com/.com',

@@ -45,7 +45,7 @@ const Timeline = () => {
   return (
     <Section id='about'>
       <SectionTitle>About</SectionTitle>
-      <SectionText>Hello, My name is Tyler Hance. I love web design and all things JavaScript. I'm known to make a mean bear can chicken and drink too much coffee. 
+      <SectionText>Hello, My name is Tyler Hance. I love web design and all things JavaScript. I'm known to make a mean beer can chicken and drink too much coffee. 
         I received my certification in Full-Stack Web Development (MERN) from the University of Washington. I love solving difficult problems and helping make people's lives the better for it. </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
