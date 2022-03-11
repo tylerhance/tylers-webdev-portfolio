@@ -37,10 +37,12 @@ export const projects = [
   },
 ];
 
-// export const TimeLineData = [
-//   { year: 'Feb 2020', text: 'Started learning programming (HTML,CSS, JS) with freeCodeCamp and YouTube', },
-//   { year: 'March 2020', text: 'During quarantine, dedicated even more time to learning JavaScript and building projects', },
-//   { year: 'Nov 2021', text: 'Enrolled in Harvard CS50 and also began researching coding bootcamps', },
-//   { year: 'March 2021', text: 'Enrolled and began courses for the UW (University of Washington) coding bootcamp', },
-//   { year: 'Sept 2021', text: 'Certified as Full-Stack Web Developer from University of Washington', },
-// ];
+export const TimeLineData = [
+  { year: '2018', text: 'Started role as IT support technician and found a passion for tech', },
+  { year: '2019', text: 'Started learning Java and Python as I began new role as a programmer for HVAC controls', },
+  { year: '2020', text: 'Started learning programming (HTML,CSS, JS) with freeCodeCamp and YouTube', },
+  { year: '2020', text: 'Enrolled in Harvard CS50 and also began researching coding bootcamps', },
+  { year: '2021', text: 'Officially enrolled and began courses for the UW (University of Washington) full-stack coding bootcamp', },
+  { year: '2021', text: 'Certified as Full-Stack Web Developer from the University of Washington', },
+];
+
