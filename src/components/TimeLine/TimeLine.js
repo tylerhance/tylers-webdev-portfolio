@@ -44,9 +44,11 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About</SectionTitle>
-      <SectionText>Hello, My name is Tyler Hance. I love web design and all things JavaScript. I'm known to make a mean beer can chicken and drink too much coffee. 
-        I received my certification in Full-Stack Web Development (MERN) from the University of Washington. I love solving difficult problems and helping make people's lives the better for it. </SectionText>
+      <SectionTitle>About Me</SectionTitle>
+      <SectionText>Passionate and solutions-driven full stack web developer with a Web Development Certificate from the University of Washington. I have a background in IT/technical support with 4 years of experience and really 
+        enjoy helping end-users use technology to solve their problems and simplify their lives. I am a self-motivated and detail-oriented individual with a strong desire to learn and grow. When I'm not working on refining my JavaScript knowledge, you
+        can find me playing guitar/recording music, playing video games, and/or spending quality time with my wife and daughter.
+      </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
         {TimeLineData.map((item, index) => (
