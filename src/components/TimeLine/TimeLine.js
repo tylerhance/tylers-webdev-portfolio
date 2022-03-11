@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About</SectionTitle>
+      <SectionTitle>About Me</SectionTitle>
       <SectionText>Passionate and solutions-driven full stack web developer with a Web Development Certificate from the University of Washington. I have a background in IT/technical support with 4 years of experience and really 
         enjoy helping end-users use technology to solve their problems and simplify their lives. I am a self-motivated and detail-oriented individual with a strong desire to learn and grow. When I'm not working on refining my JavaScript knowledge, you
         can find me playing guitar/recording music, playing video games, and/or spending quality time with my wife and daughter.

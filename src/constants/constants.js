@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Tech Blog',
-    description:"I built a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.",
+    description:"CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.",
     image: '/images/techblog.jpeg',
     tags: ['JavaScript', 'Sequelize', 'Handlebars', 'Node', 'Heroku'],
     source: 'https://github.com/tylerhance/Tech-Blog',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Employee Management Tracker',
-    description: "This is a CLI content management system which allows employers a solution to effectively manage an employee's role and responsibilities. The app uses the inquirer npm package to prompt the user for information about the employee, and then uses the fs-extra npm package to write the information to a file. The app also uses the Table module to display the employee information in a table format.",
+    description: "CLI content management system which allows employers a solution to effectively manage an employee's role and responsibilities. The app uses the inquirer npm package to prompt the user for information about the employee, and then uses the fs-extra npm package to write the information to a file. The app also uses the Table module to display the employee information in a table format.",
       image: '/images/employeetracker.jpeg',
       tags: ['JavaScript', 'MySQL', 'Node', 'Inquirer', 'NPM'],
     source: 'https://github.com/tylerhance/Employee-Tracker',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Weather Dashboard',
-    description: "I built a weather dashboard app which uses vanilla JavaScript and the OpenWeatherMap API to display the current weather conditions for a user-specified city. The user can view the 5-day forecast based on the user's input for a specific city.",
+    description: "Weather dashboard app which uses vanilla JavaScript and the OpenWeatherMap API to display the current weather conditions for a user-specified city. The user can view the 5-day forecast based on the user's input for a specific city.",
     image: '/images/WeatherDashboard.png',
     tags: ['JavaScript', 'HTML', 'CSS', 'OpenWeatherMapAPI'],
     source: 'https://github.com/tylerhance/weather-dashboard',
@@ -37,11 +37,10 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 'Feb 2019', text: 'Started role in IT support and wanted to further expand knowledge of how the web actually worked', },
-  { year: 'Aug 2020', text: 'Started learning programming (HTML,CSS, JS) with freeCodeCamp and YouTube', },
-  { year: 'Sept 2020', text: 'Realized I wanted to learn more about programming and learn as much as possible', },
-  { year: 'Nov 2021', text: 'Enrolled in Harvard CS50 and also began researching coding bootcamps', },
-  { year: 'March 2021', text: 'Enrolled and began courses for the UW (University of Washington) coding bootcamp', },
-  { year: 'Sept 2021', text: 'Certified as Full-Stack Web Developer from University of Washington', },
-];
+// export const TimeLineData = [
+//   { year: 'Feb 2020', text: 'Started learning programming (HTML,CSS, JS) with freeCodeCamp and YouTube', },
+//   { year: 'March 2020', text: 'During quarantine, dedicated even more time to learning JavaScript and building projects', },
+//   { year: 'Nov 2021', text: 'Enrolled in Harvard CS50 and also began researching coding bootcamps', },
+//   { year: 'March 2021', text: 'Enrolled and began courses for the UW (University of Washington) coding bootcamp', },
+//   { year: 'Sept 2021', text: 'Certified as Full-Stack Web Developer from University of Washington', },
+// ];

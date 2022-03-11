@@ -9,8 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a wide variety of technologies but my favorite are React, Node, and MongoDB. I've also worked with a variety of other frameworks and libraries and I am always eager to learn more.
-
+      I specialize in the MERN stack but am always trying to learn new tech and refine my skills.
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js  
+            React.js + JavaScript 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,7 +28,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js/Express.js  + Databases: MongoDB & MySQL
+            Node.js/Express.js  + Databases: MongoDB & MySQL + GraphQL/Apollo
           </ListParagraph>
         </ListContainer>
       </ListItem>
