@@ -12,7 +12,7 @@ const Hero = () => (
         Full-Stack Web Developer
       </SectionTitle>
       <SectionText>
-        Hello, Dear Reader. I'm Tyler Hance, a full-stack web developer with a passion for problem solving and design specializing in the MERN stack (Mongo, Express, React, Node). 
+        Hello, there. I'm Tyler Hance, a full-stack web developer with a passion for problem solving and design specializing in the MERN stack (Mongo, Express, React, Node). 
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/tylerhance' }>Learn More</Button>
     </LeftSection>
